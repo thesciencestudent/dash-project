@@ -38,7 +38,7 @@ Every kind of data has a graph associated with it.
 
 ## Libraries
 
-Libraries used are saved in the [**requirements.txt**](../requirements.txt) file.
+Libraries used are saved in the [**requirements.txt**](../master/requirements.txt) file.
 
 To install all the libraries directly, navigate to the directory and run the command
 
